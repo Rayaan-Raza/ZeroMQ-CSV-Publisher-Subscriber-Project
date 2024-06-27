@@ -1,4 +1,3 @@
-# zeromq-csv-timestamp-handler
 
 # ZeroMQ CSV Publisher-Subscriber Project
 
